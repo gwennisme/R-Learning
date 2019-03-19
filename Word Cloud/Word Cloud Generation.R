@@ -1,6 +1,6 @@
 ### R-Learning - Generate Word Clouds ###
 ### Author: Gwendoline Tan (@gwennisme) ###
-### Data Source: Makeover Monday 2018 Week 35 ###
+### Data Source: Figure Eight - Makeover Monday 2018 Week 35 ###
 ### Wordcloud Learning Reference ###
 # http://www.sthda.com/english/wiki/text-mining-and-word-cloud-fundamentals-in-r-5-simple-steps-you-should-know
 
